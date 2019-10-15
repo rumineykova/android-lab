@@ -2,13 +2,11 @@
 A beginners lab for Android development 
 https://www.cs.utexas.edu/users/witchel/371M/lectures/01-java-review.pdf
 
-# Let's learn about Android!
-* Refresh your Java skills here [here](https://www.cs.utexas.edu/users/witchel/371M/lectures/01-java-review.pdf 
+# Let's learn about Android! These are must read:
+* Refresh your Java skills here [here](https://www.cs.utexas.edu/users/witchel/371M/lectures/01-java-review.pdf)
 * Java very minimal code convention that you should follow, read [here](https://web.stanford.edu/class/cs193a/styleguide.shtml)
 * Very useful Android development course from Stanford [here] [visualisation tools](https://try.github.io/)
-* I found an interesting tutorial
-
-<img src="https://www.edureka.co/blog/wp-content/uploads/2016/11/Git-Architechture-Git-Tutorial-Edureka-2.png" width = 300> </br>
+* Android fundamentals [here] (https://developer.android.com/guide/components/fundamentals)
 
 
 # Let's practice 
@@ -17,22 +15,19 @@ Before you start:
 2. check that you have git installed: </br>
 3. Open the git bash application (we will be using gitBash to write git command throughout the tutorial) </br>
 ## :warning:This week's deliverables 
-Completing assignments *Part I* and *Part II* is compulsory. </br>
-This is your deliverable for the week. </br>
-It is very important to complete it, demonstrating git skills is part of the minimum learning outcomes for CS2001. </br>
-As a bonus, you will also get a git batch to display on your giuthub page :octocat:  </br>
-For your deliverable to be accepted you have to: 
-* Step 1: Complete the assignment in Part I 
-  * Make sure that your file is added to the COLLABORATORS folder of the Git-it repository, 
-  hence your PullRequest has to be accepted. 
-* Step 2: Complete the assignment in Part II. Make sure you have pushed your changes 
-and the file with your student id is in the repository. 
+Completing assignments *Part I* and *Part II* is advisory. </br>
+If you complete assignments *Part III* you will will become an Android ninja! </br>
+Next week we will continue with Android development. Your compulsory submission deadline will be next week. </br>
+However the skill this week will be essential if you want to succeed with next week's Android task. </br>
 
 ## Part I: Basic Android skills: Create your first Android app    
 Let's get started, follow the steps below. </br>
-* Step 1: Open Android Studio and create a new project 
-* Step 2: Start the application 
-* Step 3: Complete all challenges  
+* Step 1: Open Android Studio 
+* Step 2: Create a new project with a name Dice Roller (hint: If you struggle, check [here](https://developer.android.com/training/basics/firstapp/creating-project))
+* Step 3: Create the user interface: one button with the name click me, and a text box for displaying numbers 
+* Step 3.1: Create the user interface. The user screen should look like this:
+* Step 3.2: The state of the screen after you change the screen should be: 
+* Step 4: Once the user clicks on the button, the text of the text box should show a random number.
 
 ## Part II: Fix the bug
 In this exercise, you will modify an existing repository and will submit a pull request for it. </br>
