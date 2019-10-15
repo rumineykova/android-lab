@@ -18,7 +18,7 @@ Before you start:
 Completing assignments *Part I* and *Part II* is compulsory. </br>
 If you complete assignments *Part III* you gain the status of an Android ninja! </br>
 Next week we will continue with Android development. Your compulsory submission deadline will be next week. </br>
-However the skill you will gain this week will be essential if you want to succeed with next week's Android task. </br>
+However the skills you will gain this week will be essential if you want to succeed with next week's Android task. </br>
 
 ## Part I: Basic Android skills: Create your first Android app
 Create an Android project with the name Dice Roller. Select Git as a version control system. 
