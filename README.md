@@ -21,13 +21,14 @@ Next week we will continue with Android development. Your compulsory submission 
 However the skill this week will be essential if you want to succeed with next week's Android task. </br>
 
 ## Part I: Basic Android skills: Create your first Android app    
-Let's get started, follow the steps below. </br>
-* Step 1: Open Android Studio 
-* Step 2: Create a new project with a name Dice Roller (hint: If you struggle, check [here](https://developer.android.com/training/basics/firstapp/creating-project))
-* Step 3: Create the user interface: one button with the name click me, and a text box for displaying numbers 
-* Step 3.1: Create the user interface. The user screen should look like this:
-* Step 3.2: The state of the screen after you change the screen should be: 
-* Step 4: Once the user clicks on the button, the text of the text box should show a random number.
+Quick summary:  
+Level 1: Create an app for rolling a dice. The app shoudld contain a button that when clicked genrates and displays a random numnber. </br>
+Level 2:  Then add an input box where the user can enter a number from 1 to 10. Repeat the process above, if the generated dice number is the same as the number in the box, then display Congratulations.
+Level 3: Add a a text box that displays the user points, e.g the number of times that the user has guessed the dice. </br>
+
+Resources that can help you: </br>
+Creating a new Android project is explained [here](https://developer.android.com/training/basics/firstapp/creating-project))
+
 
 ## Part II: Fix the bug
 In this exercise, you will modify an existing repository and will submit a pull request for it. </br>
