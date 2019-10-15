@@ -15,20 +15,21 @@ Before you start:
 2. check that you have git installed: </br>
 3. Open the git bash application (we will be using gitBash to write git command throughout the tutorial) </br>
 ## :warning:This week's deliverables 
-Completing assignments *Part I* and *Part II* is advisory. </br>
-If you complete assignments *Part III* you will will become an Android ninja! </br>
+Completing assignments *Part I* and *Part II* is compulsory. </br>
+If you complete assignments *Part III* you gain the status of an Android ninja! </br>
 Next week we will continue with Android development. Your compulsory submission deadline will be next week. </br>
-However the skill this week will be essential if you want to succeed with next week's Android task. </br>
+However the skill you will gain this week will be essential if you want to succeed with next week's Android task. </br>
 
-## Part I: Basic Android skills: Create your first Android app    
-Quick summary:  
+## Part I: Basic Android skills: Create your first Android app
+Create an Android project with the name Dice Roller. Select Git as a version control system. 
+Each level below should be a separate commit! </br>
+Quick summary:  </br>
 Level 1: Create an app for rolling a dice. The app shoudld contain a button that when clicked genrates and displays a random numnber. </br>
-Level 2:  Then add an input box where the user can enter a number from 1 to 10. Repeat the process above, if the generated dice number is the same as the number in the box, then display Congratulations.
+Level 2:  Then add an input box where the user can enter a number from 1 to 10. Repeat the process above, if the generated dice number is the same as the number in the box, then display Congratulations.</br>
 Level 3: Add a a text box that displays the user points, e.g the number of times that the user has guessed the dice. </br>
-
 Resources that can help you: </br>
 Creating a new Android project is explained [here](https://developer.android.com/training/basics/firstapp/creating-project))
-
+Finally, push your repository to github </br>
 
 ## Part II: Fix the bug
 In this exercise, you will modify an existing repository and will submit a pull request for it. </br>
