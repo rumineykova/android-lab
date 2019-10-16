@@ -5,6 +5,7 @@ These are must-reads:
 * Java very minimal code convention that you should follow, read [here](https://web.stanford.edu/class/cs193a/styleguide.shtml)
 * Very useful Android development course from Stanford [here](https://web.stanford.edu/class/cs193a/videos.shtml)
 * Android fundamentals [here](https://developer.android.com/guide/components/fundamentals)
+* Git ignore for Android Studio [here](https://gist.github.com/iainconnor/8605514)
 
 ## :warning:This week's deliverables 
 Completing *Part I* is compulsory, completing *Part II* will give you the status of an Android ninja. 
