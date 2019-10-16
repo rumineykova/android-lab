@@ -1,17 +1,17 @@
 
 # Let's learn about Android!  <img src="https://cnet4.cbsistatic.com/img/QJcTT2ab-sYWwOGrxJc0MXSt3UI=/2011/10/27/a66dfbb7-fdc7-11e2-8c7c-d4ae52e62bcc/android-wallpaper5_2560x1600_1.jpg" width="48">
 These are must-reads:
-* Refresh your Java skills here [here](https://www.cs.utexas.edu/users/witchel/371M/lectures/01-java-review.pdf)
+* Refresh your Java skills [here](https://www.cs.utexas.edu/users/witchel/371M/lectures/01-java-review.pdf)
 * Java very minimal code convention that you should follow, read [here](https://web.stanford.edu/class/cs193a/styleguide.shtml)
-* Very useful Android development course from Stanford [here] [visualisation tools](https://try.github.io/)
-* Android fundamentals [here] (https://developer.android.com/guide/components/fundamentals)
+* Very useful Android development course from Stanford [here](https://web.stanford.edu/class/cs193a/videos.shtml)
+* Android fundamentals [here](https://developer.android.com/guide/components/fundamentals)
 
 ## :warning:This week's deliverables 
 Completing *Part I* is compulsory, completing *Part II* will give you the status of an Android ninja. 
 Next week we will continue with Android development. Your compulsory submission deadline will be next week. </br>
 However the skills you will gain this week will be essential if you want to succeed with next week's Android task. </br>
 
-## Part I: Basic Android skills: Create your first Android app
+## Part I: Basic Android skills: Create your first Android app :game_die:
 Create an Android project with the name Dice Roller. Select Git as a version control system. 
 Each level below should be a separate commit! </br>
 Quick summary:  </br>
