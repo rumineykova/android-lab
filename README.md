@@ -64,7 +64,7 @@ You are officially an android master <img src="https://cnet4.cbsistatic.com/img/
 
 ## Useful resources
 * [Android Developer Docs](https://developer.android.com/guide)
-* [Android API Reference] (https://developer.android.com/reference/packages.html)
+* [Android API Reference](https://developer.android.com/reference/packages.html)
 
 
 
