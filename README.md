@@ -6,6 +6,7 @@ These are must-reads:
 * Very useful Android development course from Stanford [here](https://web.stanford.edu/class/cs193a/videos.shtml)
 * Android fundamentals [here](https://developer.android.com/guide/components/fundamentals)
 * Git ignore for Android Studio [here](https://gist.github.com/iainconnor/8605514)
+* Install Android Studio from [here](https://developer.android.com/studio/install)
 
 ## :warning:This week's deliverables 
 Completing *Part I* is compulsory, completing  *Part IIa* and *Part IIb* will give you the status of an Android ninja. 
