@@ -27,40 +27,39 @@ Finally, push your repository to github </br>
 Resources that can help you: </br>
 Creating a new Android project is explained [here](https://developer.android.com/training/basics/firstapp/creating-project)
 
-## Part II: Fix the bug
-In this exercise, you will modify an existing repository and will submit a pull request to correct a nasty bug in the repository. </br>
+## Part II: Create a game of bulls and cows
 * __Step 1:__ Accept the assignment invitation from this [link](https://classroom.github.com/a/38k1-dLf) </br>
    Accepting the invitation will create a copy of the repository for you. </br>
    The name of the assignement repository will be something like: git-lab-yourusername  </br>
    In the above yourUserName will be your actual github name </br>
    The link to your repository will be: https://github.com/BrunelCS/git-lab-yourUserName </br>
    Again, note that yours will have the same naming convention but instead of yourUserName, there will be your github username </br>
-* __Step 2:__ Fork this repository 
-* __Step 3:__ Open the repository in Android studio. 
-* __Step 4:__ Compile the project, you will notice that the file does not compile. 
-* __Step 5:__ Find the problem and fix it. 
-* __Step 6:__ Submit a Pull Request so I can fix the bug to fix the problem. 
+* __Step 2:__ Create the game. The rules of the game are [here] (https://en.wikipedia.org/wiki/Bulls_and_Cows)
+In this exercise, you will modify an existing repository and will submit a pull request to correct a nasty bug in the repository. </br>
 
-## Part III: :feet: Looking for this week's Android ninja!
+## Part II: :feet: Wokring with external APIs: Share your score on slack!
 Now when we know the basics of Android, let's have some fun with it. </br>
 Add a finish button on the main Activity screen, clicking the button sends you to a new screen </br>
 On the new screen there must be one button called "Share your score on slack" </br>
 When you click the button your current score should be posted on the slack channel #test-android</br>
 Hints: </br>
 Update gradle with slack-api repository </br>
-Update the manifest file to allow user permissions on have network access and wifi (you need to enable three user-permissions) </br>
-The full API can be founds here, use it for referene to find which buttons you should use!</br>
-To use API, you should use a generate a slack token, read how [here] </br>
+Update the manifest file to allow user permissions on have network access and wifi (you need to enable three user-permissions) 
+
+</br>
+The full API can be founds here, use it for referene to find which method you should use (hint:postMessage)! </br>
+To use the API, you should generate a slack token, read how [here] </br>
+
 Still struggling? Wrap the slack-api call in a try-catch block, and observe the error </br>
 You cannot start a long running tasks from the main UI thread, this is not only bad practice, but also a dangerous one. 
-Check how to solve it [here](http://simpledeveloper.com/network-on-main-thread-error-solution/) </br>
+Check how to solve it [here](http://simpledeveloper.com/network-on-main-thread-error-solution/). You are allowed to implement the hacky solution this time. But only this time! From next week, you should try using the proper one! </br>
 
-
+## Part III: :feet: Become an Android ninja!
 There are prizes (android stickers) for whoever manages to complete it! Good luck!</br>
 You will also be listed on the lab page as and Android master of the week! </br>
 
 
-## Part IV: Finally, it is time to test your git knowledge
+## Part IV: Finally, it is time to test your Android knowledge
 * Test your git knowledge [here](https://learn.co/lessons/git-github-learn-quiz)
 * Make sure that you can: 
   * contribute to an existing repository ([hint](https://guides.github.com/introduction/git-handbook/#github)) 
