@@ -27,11 +27,12 @@ Creating a new Android project is explained [here](https://developer.android.com
 ## Part II: Create a game of bulls and cows
 * __Step 1:__ Accept the assignment invitation from this [link](https://classroom.github.com/a/38k1-dLf) </br>
    Accepting the invitation will create a copy of the repository for you. </br>
-   The name of the assignement repository will be something like: git-lab-yourusername  </br>
+   The name of the assignement repository will be something like: android-lab-yourusername  </br>
    In the above yourUserName will be your actual github name </br>
    The link to your repository will be: https://github.com/BrunelCS/git-lab-yourUserName </br>
    Again, note that yours will have the same naming convention but instead of yourUserName, there will be your github username </br>
 * __Step 2:__ Create the game. The rules of the game are [here](https://en.wikipedia.org/wiki/Bulls_and_Cows) </br>
+The game should have at least four commits (1) initial 2) building the UI 3) building the the logic for cows and 4) the logic for bulls)
 
 ## Part III: :hash: Wokring with external APIs: Share your score on slack!
 Now when we know the basics of Android, let's have some fun with it. </br>
