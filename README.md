@@ -18,7 +18,7 @@ Each level below should be a separate commit! </br>
 Quick summary:  </br>
 Level 1: Create an app for rolling a dice. The app shoudld contain a button that when clicked generates and displays a random number. </br>
 Level 2:  Then add an input box where the user can enter a number from 1 to 6. Repeat the process above, if the generated dice number is the same as the number in the box, then display Congratulations. </br>
-Level 3: Add a a text box that displays the user points, e.g the number of times that the user has guessed the number on the dice. </br>
+Level 3: Add a text box that displays the user points, e.g the number of times that the user has guessed the number on the dice. </br>
 Finally, push your repository to github:  </br>
 * Accept the [invitation link](https://classroom.github.com/a/x3PNkMI1)
 * Configure your origin remote to point to that link! </br>
