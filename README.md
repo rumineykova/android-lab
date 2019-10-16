@@ -33,18 +33,18 @@ Creating a new Android project is explained [here](https://developer.android.com
 * __Step 2:__ Create the game. The rules of the game are [here](https://en.wikipedia.org/wiki/Bulls_and_Cows) </br>
 The game should have at least four commits (1) initial 2) building the UI 3) building the the logic for cows and 4) the logic for bulls)
 
-## Part III:  Wokring with external APIs: Share your score on slack! :hash:
-Now when we know the basics of Android, let's have some fun with it. </br>
+## Part III:  Working with external APIs: Share your score on slack! :hash:
+Now we know the basics of Android, let's have some fun with it. </br>
 Add a finish button on the main Activity screen, clicking the button sends you to a new screen </br>
 On the new screen there must be one button called "Share your score on slack" </br>
 When you click the button your current score should be posted on the slack channel #test-android</br>
 Hints: </br>
-This is the slack-api that you should use, </br>
+This is the [slack-api](https://github.com/pschroen/slack-api-android) that you should use, </br>
 To add this API to your project, you should add it to gradle </br>
 Update the manifest file to allow user permissions on have network access and wifi (you need to enable three user-permissions) 
 </br>
-The full API can be founds here, use it for referene to find which method you should use (hint:postMessage)! </br>
-To use the API, you should generate a slack token, read how [here]() </br>
+The full API can be founds [here](https://github.com/allbegray/slack-api), use it for referene to find which method you should use (hint:postMessage)! </br>
+To use the API, you should generate a slack token, read how [here](https://slack.com/intl/en-gb/help/articles/215770388-create-and-regenerate-api-tokens) </br>
 
 Still struggling? Wrap the slack-api call in a try-catch block, and observe the error </br>
 You cannot start long running tasks (such as network events) from the main UI thread, this is not only a bad practice, but also a dangerous one. 
