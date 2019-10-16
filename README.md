@@ -31,8 +31,7 @@ Creating a new Android project is explained [here](https://developer.android.com
    In the above yourUserName will be your actual github name </br>
    The link to your repository will be: https://github.com/BrunelCS/git-lab-yourUserName </br>
    Again, note that yours will have the same naming convention but instead of yourUserName, there will be your github username </br>
-* __Step 2:__ Create the game. The rules of the game are [here] (https://en.wikipedia.org/wiki/Bulls_and_Cows)
-In this exercise, you will modify an existing repository and will submit a pull request to correct a nasty bug in the repository. </br>
+* __Step 2:__ Create the game. The rules of the game are [here] (https://en.wikipedia.org/wiki/Bulls_and_Cows) </br>
 
 ## Part III: :hash: Wokring with external APIs: Share your score on slack!
 Now when we know the basics of Android, let's have some fun with it. </br>
@@ -42,18 +41,14 @@ When you click the button your current score should be posted on the slack chann
 Hints: </br>
 Update gradle with slack-api repository </br>
 Update the manifest file to allow user permissions on have network access and wifi (you need to enable three user-permissions) 
-
 </br>
+
 The full API can be founds here, use it for referene to find which method you should use (hint:postMessage)! </br>
 To use the API, you should generate a slack token, read how [here] </br>
 
 Still struggling? Wrap the slack-api call in a try-catch block, and observe the error </br>
 You cannot start a long running tasks from the main UI thread, this is not only bad practice, but also a dangerous one. 
 Check how to solve it [here](http://simpledeveloper.com/network-on-main-thread-error-solution/). You are allowed to implement the hacky solution this time. But only this time! From next week, you should try using the proper one! </br>
-
-## Part III:n:hash: Become an Android ninja!
-There are prizes (android stickers) for whoever manages to complete it! Good luck!</br>
-You will also be listed on the lab page as and Android master of the week! </br>
 
 
 ## Part IV: Finally, it is time to test your Android knowledge
@@ -65,9 +60,11 @@ You will also be listed on the lab page as and Android master of the week! </br>
 
 # :book: Further practice and reading
 Congratulations!You have completed this lab session. </br>
-You are oficially an android master <img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjo2aK9wp_lAhVIyxoKHRyrCkoQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.cnet.com%2Fandroid-update%2F&psig=AOvVaw1m-RcIgNo30mKw9JxejmMC&ust=1571271999401439" width="48"> </br>
+You are officially an android master <img src="https://cnet4.cbsistatic.com/img/QJcTT2ab-sYWwOGrxJc0MXSt3UI=/2011/10/27/a66dfbb7-fdc7-11e2-8c7c-d4ae52e62bcc/android-wallpaper5_2560x1600_1.jpg" width="48"> </br>
 
 ## Useful resources
+* [Android Developer Docs](https://developer.android.com/guide)
+* [Android API Reference] (https://developer.android.com/reference/packages.html)
 
 
 
