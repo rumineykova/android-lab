@@ -27,7 +27,7 @@ Resources that can help you: </br>
 Creating a new Android project is explained [here](https://developer.android.com/training/basics/firstapp/creating-project)
 
 ## Part II: Create a game of bulls and cows :cow2: 
-* __Step 1:__ Accept the assignment invitation from this [link](https://classroom.github.com/a/38k1-dLf) </br>
+* __Step 1:__ Accept the assignment invitation from this [link](https://classroom.github.com/a/aHANZdgs) </br>
    Accepting the invitation will create a copy of the repository for you. </br>
    The name of the assignement repository will be something like: android-lab-yourusername  </br>
    In the above yourUserName will be your actual github name </br>
