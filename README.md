@@ -1,5 +1,5 @@
 
-# Let's learn about Android! 
+# Let's learn about Android!  <img src="https://cnet4.cbsistatic.com/img/QJcTT2ab-sYWwOGrxJc0MXSt3UI=/2011/10/27/a66dfbb7-fdc7-11e2-8c7c-d4ae52e62bcc/android-wallpaper5_2560x1600_1.jpg" width="48">
 These are must-reads:
 * Refresh your Java skills here [here](https://www.cs.utexas.edu/users/witchel/371M/lectures/01-java-review.pdf)
 * Java very minimal code convention that you should follow, read [here](https://web.stanford.edu/class/cs193a/styleguide.shtml)
@@ -24,7 +24,7 @@ Finally, push your repository to github </br>
 Resources that can help you: </br>
 Creating a new Android project is explained [here](https://developer.android.com/training/basics/firstapp/creating-project)
 
-## Part II: Create a game of bulls and cows
+## Part II: Create a game of bulls and cows :cow2: 
 * __Step 1:__ Accept the assignment invitation from this [link](https://classroom.github.com/a/38k1-dLf) </br>
    Accepting the invitation will create a copy of the repository for you. </br>
    The name of the assignement repository will be something like: android-lab-yourusername  </br>
@@ -34,7 +34,7 @@ Creating a new Android project is explained [here](https://developer.android.com
 * __Step 2:__ Create the game. The rules of the game are [here](https://en.wikipedia.org/wiki/Bulls_and_Cows) </br>
 The game should have at least four commits (1) initial 2) building the UI 3) building the the logic for cows and 4) the logic for bulls)
 
-## Part III: :hash: Wokring with external APIs: Share your score on slack!
+## Part III:  Wokring with external APIs: Share your score on slack! :hash:
 Now when we know the basics of Android, let's have some fun with it. </br>
 Add a finish button on the main Activity screen, clicking the button sends you to a new screen </br>
 On the new screen there must be one button called "Share your score on slack" </br>
