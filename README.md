@@ -8,7 +8,7 @@ These are must-reads:
 * Git ignore for Android Studio [here](https://gist.github.com/iainconnor/8605514)
 
 ## :warning:This week's deliverables 
-Completing *Part I* is compulsory, completing *Part II* will give you the status of an Android ninja. 
+Completing *Part I* is compulsory, completing *Part IIb* will give you the status of an Android ninja. 
 Next week we will continue with Android development. Your compulsory submission deadline will be next week. </br>
 However the skills you will gain this week will be essential if you want to succeed with next week's Android task. </br>
 
@@ -26,7 +26,17 @@ Finally, push your repository to github:  </br>
 Resources that can help you: </br>
 Creating a new Android project is explained [here](https://developer.android.com/training/basics/firstapp/creating-project)
 
-## Part II: Create a game of bulls and cows :cow2: 
+## Part IIa: Basic Android skills: Guess the bigger number
+
+Create an Android project with the name Bigger number. Select Git as a version control system. 
+Each level below should be a separate commit! </br>
+Quick summary:  </br>
+Level 1: Create an app with two buttons. Each button displays a random number. The user should click on the number that is bigger </br>
+Level 2:  If the user guess is correct, a Congratulation message is displayed!</br>
+Level 3: Add a text box that displays the user points, e.g the number of times that the user has guessed correctly whch number is bigger. </br>
+Level 4: Add maximum number of lives. When the limit is exhausted, display a toast messgae 'Game over' </br>
+
+## Part IIb: Create a game of bulls and cows :cow2: 
 * __Step 1:__ Accept the assignment invitation from this [link](https://classroom.github.com/a/aHANZdgs) </br>
    Accepting the invitation will create a copy of the repository for you. </br>
    The name of the assignement repository will be something like: android-lab-yourusername  </br>
