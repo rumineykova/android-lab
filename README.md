@@ -1,6 +1,3 @@
-# android-lab
-A beginners lab for Android development 
-https://www.cs.utexas.edu/users/witchel/371M/lectures/01-java-review.pdf
 
 # Let's learn about Android! 
 These are must-reads:
@@ -37,7 +34,7 @@ Creating a new Android project is explained [here](https://developer.android.com
 * __Step 2:__ Create the game. The rules of the game are [here] (https://en.wikipedia.org/wiki/Bulls_and_Cows)
 In this exercise, you will modify an existing repository and will submit a pull request to correct a nasty bug in the repository. </br>
 
-## Part II: :feet: Wokring with external APIs: Share your score on slack!
+## Part III: :hash: Wokring with external APIs: Share your score on slack!
 Now when we know the basics of Android, let's have some fun with it. </br>
 Add a finish button on the main Activity screen, clicking the button sends you to a new screen </br>
 On the new screen there must be one button called "Share your score on slack" </br>
@@ -54,34 +51,24 @@ Still struggling? Wrap the slack-api call in a try-catch block, and observe the 
 You cannot start a long running tasks from the main UI thread, this is not only bad practice, but also a dangerous one. 
 Check how to solve it [here](http://simpledeveloper.com/network-on-main-thread-error-solution/). You are allowed to implement the hacky solution this time. But only this time! From next week, you should try using the proper one! </br>
 
-## Part III: :feet: Become an Android ninja!
+## Part III:n:hash: Become an Android ninja!
 There are prizes (android stickers) for whoever manages to complete it! Good luck!</br>
 You will also be listed on the lab page as and Android master of the week! </br>
 
 
 ## Part IV: Finally, it is time to test your Android knowledge
-* Test your git knowledge [here](https://learn.co/lessons/git-github-learn-quiz)
+* Test your git knowledge [here](https://basicversity.com/study/android-programming)
 * Make sure that you can: 
-  * contribute to an existing repository ([hint](https://guides.github.com/introduction/git-handbook/#github)) 
-  * start a new repository and publish it on git ([hint](https://guides.github.com/introduction/git-handbook/#github))
-  * contribute to an existing branch  ([hint](https://guides.github.com/introduction/git-handbook/#github))
+  * create a new android project
+  * work with widgets and events 
+  * switch between activities 
 
 # :book: Further practice and reading
 Congratulations!You have completed this lab session. </br>
-You are oficially a git master <img src="https://www.dev-metal.com/wp-content/uploads/2014/01/github-logo-octocat-1-704x605.jpg" width="48"> </br>
+You are oficially an android master <img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjo2aK9wp_lAhVIyxoKHRyrCkoQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.cnet.com%2Fandroid-update%2F&psig=AOvVaw1m-RcIgNo30mKw9JxejmMC&ust=1571271999401439" width="48"> </br>
 
-But your git journey is far from over. Indeed, it is just starting! </br>
-To get better at git, you have to practice. </br>
-## Practice 
-* Visit the interactive [git console](https://learngitbranching.js.org/) and solve: 
-  * Main\Introduction Sequence 1-3
-  * Main\Remote Sequence 1-8
-* Prepare for your job interview by answering these git [interview questions](https://www.knowledgehut.com/interview-questions/git)
-* Complete [these challanges](https://gitexercises.fracz.com/)
+## Useful resources
 
-## Reading
-[Free Git book](https://www.amazon.co.uk/Rys-Git-Tutorial-Ryan-Hodson-ebook/dp/B00QFIA5OC) (download and read!) 
-Note Chapter 2 is a compulsory (minimal) reading + practice. 
 
 
 
