@@ -8,7 +8,7 @@ These are must-reads:
 * Git ignore for Android Studio [here](https://gist.github.com/iainconnor/8605514)
 
 ## :warning:This week's deliverables 
-Completing *Part I* is compulsory, completing *Part IIb* will give you the status of an Android ninja. 
+Completing *Part I* is compulsory, completing  *Part IIa* and *Part IIb* will give you the status of an Android ninja. 
 Next week we will continue with Android development. Your compulsory submission deadline will be next week. </br>
 However the skills you will gain this week will be essential if you want to succeed with next week's Android task. </br>
 
