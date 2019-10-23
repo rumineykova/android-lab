@@ -53,10 +53,11 @@ The game should have at least four commits (1) initial 2) building the UI 3) bui
 
 ## Part IIIa:  Working with files: Let's play D-ICEBREAKERS! 
 This exercise builds on Part I. Open the app you built in part I and extend it with: <\br>
+
 __Level 4__: Rename the 'Roll the dice button' to 'I am feeling lucky' and Add anotter button 'Let's play D-ICEBREAKERS' <\br>
 When you click on Roll the dice, the same behaviour as the one in Part I happens </br>
 When you click on Let's play D-ICEBREAKERS', a random question from this list of questions appears on the screen </br>
-__Important__: Separate the code for geenrating a new number in a new  
+__Important__: Separate the code for geenrating a new number in a new  <\br>
 method called roll_the_dice(), use this method from the <\br>
 handlers for the click event for both buttons. <\br>
 (bonus)__Level 5__: Add another button 'Add a new D-icebreaker'. <\br>
