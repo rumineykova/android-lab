@@ -52,15 +52,19 @@ Level 4: Add maximum number of lives. When the limit is exhausted, display a toa
 The game should have at least four commits (1) initial 2) building the UI 3) building the the logic for cows and 4) the logic for bulls)
 
 ## Part IIIa:  Working with files: Let's play D-ICEBREAKERS! 
-This exercise build on Part I. Open the app you build in part I and extend with: 
-Level 4: Rename the 'Roll the dice button' to 'I am feeling lucky' and Add anotter button 'Let's play D-ICEBREAKERS' <\br>
+This exercise builds on Part I. Open the app you built in part I and extend it with: <\br>
+__Level 4__: Rename the 'Roll the dice button' to 'I am feeling lucky' and Add anotter button 'Let's play D-ICEBREAKERS' <\br>
 When you click on Roll the dice, the same behaviour as the one in Part I happens </br>
 When you click on Let's play D-ICEBREAKERS', a random question from this list of questions appears on the screen </br>
-*Important*: Separate the code for geenrating a new number a method called roll_the_dice(), use this method from the <\br>
+__Important__: Separate the code for geenrating a new number in a new  
+method called roll_the_dice(), use this method from the <\br>
 handlers for the click event for both buttons. <\br>
+(bonus)__Level 5__: Add another button 'Add a new D-icebreaker'. <\br>
+Clicking on the button takes you on another screen with a text box where you can input a new ice-breaker rule. <\br>
+There are two nuttons on the screen: cancel and save. Clicking either of them takes you back to the previous screen.  
 
 ## Part IIIb:  Working with external APIs: Share your score on slack! :hash:
-Level 5: Add a finish button on the main Activity screen, clicking the button sends you to a new screen </br>
+__Level 5__: Add a finish button on the main Activity screen, clicking the button sends you to a new screen </br>
 On the new screen there must be one button called "Share your score on slack" </br>
 When you click the button your current score should be posted on the slack channel #test-android</br>
 Hints: </br>
