@@ -8,7 +8,13 @@ These are must-reads:
 * Git ignore for Android Studio [here](https://gist.github.com/iainconnor/8605514)
 * Install Android Studio from [here](https://developer.android.com/studio/install)
 
-## :warning:This week's deliverables 
+## :warning: Overall Android-lab deliverables 
+Completing *Part I*, then extend it by completing Part IIIa and PartIIIb. <\b>
+Your Deadline is 31st October! <\b>
+Submit your code on github (using this invitation link, it ius the same as the invitation link for Part I) <\b>
+Submit on wiseflow a short video that demo your final application, less than 3 min! <\b>
+
+## :warning:First Android-lab deliverables
 Completing *Part I* is compulsory, completing  *Part IIa* and *Part IIb* will give you the status of an Android ninja. 
 Next week we will continue with Android development. Your compulsory submission deadline will be next week. </br>
 However the skills you will gain this week will be essential if you want to succeed with next week's Android task. </br>
@@ -47,9 +53,16 @@ Level 4: Add maximum number of lives. When the limit is exhausted, display a toa
 * __Step 2:__ Create the game. The rules of the game are [here](https://en.wikipedia.org/wiki/Bulls_and_Cows) </br>
 The game should have at least four commits (1) initial 2) building the UI 3) building the the logic for cows and 4) the logic for bulls)
 
-## Part III:  Working with external APIs: Share your score on slack! :hash:
-Now we know the basics of Android, let's have some fun with it. </br>
-Add a finish button on the main Activity screen, clicking the button sends you to a new screen </br>
+## Part IIIa:  Working with files: Let's play D-ICEBREAKERS! 
+This exercise build on Part I. Open the app you build in part I and extend with: 
+Level 4: Rename the 'Roll the dice button' to 'I am feeling lucky' and Add anotter button 'Let's play D-ICEBREAKERS' <\br>
+When you click on Roll the dice, the same behaviour as the one in Part I happens </br>
+When you click on Let's play D-ICEBREAKERS', a random question from this list of questions appears on the screen </br>
+*Important*: Separate the code for geenrating a new number a method called roll_the_dice(), use this method from the <\br>
+handlers for the click event for both buttons. <\br>
+
+## Part IIIb:  Working with external APIs: Share your score on slack! :hash:
+Level 5: Add a finish button on the main Activity screen, clicking the button sends you to a new screen </br>
 On the new screen there must be one button called "Share your score on slack" </br>
 When you click the button your current score should be posted on the slack channel #test-android</br>
 Hints: </br>
