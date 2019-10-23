@@ -14,7 +14,7 @@ Your Deadline is 31st October! <\b>
 Submit your code on github (using this invitation link, it ius the same as the invitation link for Part I) <\b>
 Submit on wiseflow a short video that demo your final application, less than 3 min! <\b>
 
-## :warning:First Android-lab deliverables
+##First Android-lab deliverables
 Completing *Part I* is compulsory, completing  *Part IIa* and *Part IIb* will give you the status of an Android ninja. 
 Next week we will continue with Android development. Your compulsory submission deadline will be next week. </br>
 However the skills you will gain this week will be essential if you want to succeed with next week's Android task. </br>
