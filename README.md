@@ -57,11 +57,11 @@ This exercise builds on Part I. Open the app you built in part I and extend it w
 __Level 4__: Rename the 'Roll the dice button' to 'I am feeling lucky' and Add anotter button 'Let's play D-ICEBREAKERS' </br>
 When you click on Roll the dice, the same behaviour as the one in Part I happens </br>
 When you click on Let's play D-ICEBREAKERS', a random question from this list of questions appears on the screen </br>
-__Important__: Separate the code for geenrating a new number in a new  </br>
-method called roll_the_dice(), use this method from the </br>
+__Important__: Separate the code for generating a new number in a new  </br>
+method called ```roll_the_dice()```, use this method from the </br>
 handlers for the click event for both buttons. </br>
-(bonus)__Level 5__: Add another button 'Add a new D-icebreaker'. </br>
-Clicking on the button takes you on another screen with a text box where you can input a new ice-breaker rule. <\br>
+__(bonus)Level 4.5__: Add another button 'Add a new D-icebreaker'. </br>
+Clicking on the button takes you on another screen with a text box where you can input a new ice-breaker rule. </br>
 There are two nuttons on the screen: cancel and save. Clicking either of them takes you back to the previous screen.  
 
 ## Part IIIb:  Working with external APIs: Share your score on slack! :hash:
