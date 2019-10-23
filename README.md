@@ -9,10 +9,10 @@ These are must-reads:
 * Install Android Studio from [here](https://developer.android.com/studio/install)
 
 ## :warning: Overall Android-lab deliverables 
-Completing *Part I*, then extend it by completing Part IIIa and PartIIIb. <\b>
-Your Deadline is 31st October! <\b>
-Submit your code on github (using this invitation link, it ius the same as the invitation link for Part I) <\b>
-Submit on wiseflow a short video that demo your final application, less than 3 min! <\b>
+Completing *Part I*, then extend it by completing Part IIIa and PartIIIb. <\br>
+Your Deadline is 31st October! <\br>
+Submit your code on github (using this invitation link, it ius the same as the invitation link for Part I) <\br>
+Submit on wiseflow a short video that demo your final application, less than 3 min! <\br>
 
 ## First Android-lab deliverables (old, week 3)
 Completing *Part I* is compulsory, completing  *Part IIa* and *Part IIb* will give you the status of an Android ninja. </br>
