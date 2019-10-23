@@ -56,7 +56,7 @@ This exercise builds on Part I. Open the app you built in part I and extend it w
 
 __Level 4__: Rename the 'Roll the dice button' to 'I am feeling lucky' and Add anotter button 'Let's play D-ICEBREAKERS' </br>
 When you click on Roll the dice, the same behaviour as the one in Part I happens </br>
-When you click on Let's play D-ICEBREAKERS', a random question from this list of questions appears on the screen </br>
+When you click on Let's play D-ICEBREAKERS', a random question from [this list](https://docs.google.com/document/d/1tGVnM7qQ1SEEr1p0EjHz-bTU1h60iVHeReTORE4uqsE/edit?usp=sharing) of questions appears on the screen </br>
 __Important__: Separate the code for generating a new number in a new  </br>
 method called ```roll_the_dice()```, use this method from the </br>
 handlers for the click event for both buttons. </br>
