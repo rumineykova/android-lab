@@ -51,7 +51,7 @@ Level 4: Add maximum number of lives. When the limit is exhausted, display a toa
 * __Step 2:__ Create the game. The rules of the game are [here](https://en.wikipedia.org/wiki/Bulls_and_Cows) </br>
 The game should have at least four commits (1) initial 2) building the UI 3) building the the logic for cows and 4) the logic for bulls)
 
-## Part IIIa:  Working with files: Let's play D-ICEBREAKERS! 
+## Part IIIa:  Let's play D-ICEBREAKERS! 
 This exercise builds on Part I. Open the app you built in part I and extend it with: </br>
 
 __Level 4__: Rename the 'Roll the dice button' to 'I am feeling lucky' and Add anotter button 'Let's play D-ICEBREAKERS' </br>
@@ -62,7 +62,8 @@ method called ```roll_the_dice()```, use this method from the </br>
 handlers for the click event for both buttons. </br>
 __(bonus)Level 4.5__: Add another button 'Add a new D-icebreaker'. </br>
 Clicking on the button takes you on another screen with a text box where you can input a new ice-breaker rule. </br>
-There are two nuttons on the screen: cancel and save. Clicking either of them takes you back to the previous screen.  
+There are two nuttons on the screen: cancel and save. Clicking either of them takes you back to the previous screen. </br>
+Read here how to start a [new activity](https://developer.android.com/training/basics/firstapp/starting-activity)
 
 ## Part IIIb:  Working with external APIs: Share your score on slack! :hash:
 __Level 5__: Add a finish button on the main Activity screen, clicking the button sends you to a new screen </br>
