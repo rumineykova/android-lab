@@ -10,7 +10,7 @@ These are must-reads:
 
 ## :warning: Overall Android-lab deliverables 
 Completing *Part I*, then extend it by completing Part IIIa and (bonus) PartIIIb. <\br>
-Your Deadline is __8th November__! <\br>
+Your Deadline is __8th November__! </br>
 Submit your code on github (using this invitation link, it ius the same as the invitation link for Part I) </br>
 Submit on wiseflow a short video that demo your final application, less than 3 min! </br>
 
